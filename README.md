@@ -11,6 +11,9 @@ matches are facilitated by an Arena class.
 * **Arena Class:** Facilitates matches between two players, handling the logic of attacks and damage calculations.
 * **Main Class:** Entry point to the program, initializes players, adds them to the manager, and starts matches.
 
+### UML Class Diagram
+<https://raw.githubusercontent.com/Mac16661/ExchangeNode/main/Swiggi.png>
+
 ### How to Run & Requirements
 * Java 8 or higher installed on your system.
 * IDE such as IntelliJ IDEA, Eclipse, or any text editor to view and edit Java files.
