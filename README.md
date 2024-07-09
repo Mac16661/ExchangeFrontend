@@ -10,16 +10,16 @@ matches are facilitated by an Arena class.
 * **PlayerManager Class:** Manages multiple players, allowing addition and retrieval of players, as well as starting matches between them.
 * **Arena Class:** Facilitates matches between two players, handling the logic of attacks and damage calculations.
 * **Main Class:** Entry point to the program, initializes players, adds them to the manager, and starts matches.
-<br/>
+
 ### How to Run & Requirements
 * Java 8 or higher installed on your system.
 * IDE such as IntelliJ IDEA, Eclipse, or any text editor to view and edit Java files.
 * Run Main.java inside src/com.swiggi/ folder
-<br/>
+
 ### Output
 *  The program will print the progress of the match in the console.
 *  After the match concludes, it will display the winner based on remaining health.
-<br/>
+
 ### Example
 Assume two players:
 
@@ -27,5 +27,6 @@ Assume two players:
 * Player B: Health 100, Strength 10, Attack 5
 * <br/>
 The program will simulate matches between these players, displaying each attack and the resulting damage until one player's health reaches zero.
+
 ### Support
 For any issues or questions, please contact macy16661@gmail.com.
