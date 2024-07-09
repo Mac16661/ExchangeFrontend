@@ -12,7 +12,7 @@ matches are facilitated by an Arena class.
 * **Main Class:** Entry point to the program, initializes players, adds them to the manager, and starts matches.
 
 ### UML Class Diagram
-[photo]: https://raw.githubusercontent.com/Mac16661/ExchangeNode/main/Swiggi.png "Class Diagram"
+![Class Diagram](https://raw.githubusercontent.com/Mac16661/ExchangeNode/main/Swiggi.png "Class Diagram")
 
 ### How to Run & Requirements
 * Java 8 or higher installed on your system.
